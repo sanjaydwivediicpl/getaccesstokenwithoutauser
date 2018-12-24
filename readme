@@ -1,0 +1,7 @@
+Get access without a user
+Authentication and authorization steps
+Register your app.
+Configure permissions for Microsoft Graph on your app.
+Get administrator consent.
+Get an access token.
+Use the access token to call Microsoft Graph.
